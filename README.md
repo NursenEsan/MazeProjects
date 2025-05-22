@@ -11,7 +11,7 @@ Contains the main method. Uses the MazeGenerator to generate a maze, converts it
 
 Stack.java
 A generic stack implementation using linked nodes. Used to manage the movement history and path coordinates during solving.
--------
+
 
 ## How It Works
 ### Maze Generation
